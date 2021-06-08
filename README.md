@@ -1,4 +1,4 @@
-# Scraping-Facebook_data_with_Selenium
+# Scraping-Facebook_data
 L'objectif principal de ce projet est d'automatiser le monitoring de Facebook.
 - Plan de projet de base:
 Ce projet est mis en œuvre en utilisant la technologie de l'exploration des données à deux niveaux:
